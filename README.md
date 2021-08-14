@@ -27,5 +27,6 @@ In addition, users can collaborate with each other under various projects, assig
 <img src="screenshots/ss_group_call.jpg" width="200"> <img src="screenshots/ss_stats.jpg" width="200">
 
 ## Installation
-Download your compatible APK (Out of the three android binaries, arm64-v8a would be compatible for most devices) and install it in your device. 
-Make sure to disable Google Play Protect since we have not published the application yet.
+Download here 👇
+
+https://do-it.en.uptodown.com/android
