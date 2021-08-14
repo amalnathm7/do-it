@@ -3,7 +3,7 @@
 </div>
 
 # Do-It
-A Todo-cum-Project Management Application to improve productivity in collaboration with Dinoy Raj K (https://github.com/Dinoy-Raj).
+A Todo-cum-Project Management Application, to improve productivity, in collaboration with Dinoy Raj K (https://github.com/Dinoy-Raj).
 
 ## Description
 Do-It is a cross-platform productivity application developed in Flutter. It helps users keep track of their notes, to-do and projects. 
